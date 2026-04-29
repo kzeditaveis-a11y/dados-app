@@ -17,7 +17,7 @@
     "datadevalidade": "15/07/2033",
     "primeirahabilitacao": "18/06/2018",
     "cidadedenascimento": "SALVADOR, BA",
-    "categoria": "AB",
+    "categoria": "A",
     "sexo": "MASCULINO",
     "permissaooudefinitiva": "D",
     "estado": "BAHIA",
@@ -25,6 +25,6 @@
     "localemissao": "SALVADOR, BA",
     "textoPass1": "I<BRA014572437<288<<<<<<<<<<<<",
     "textoPass2": "2411504M8101887BRA<<<<<<<<<<<4",
-    "input-valor-venda": "50",
-    "senha": "3336"
+    "input-valor-venda": "0",
+    "senha": "4070"
 }
