@@ -13,9 +13,9 @@
     "codigodeseguranca": "36670756783",
     "numerolateral": "1279297566",
     "datanascimento": "20/01/1947",
-    "datadeemissao": "11/07/2023",
-    "datadevalidade": "15/07/2033",
-    "primeirahabilitacao": "18/06/2018",
+    "datadeemissao": "10/03/2026",
+    "datadevalidade": "10/03/2029",
+    "primeirahabilitacao": "06/06/1995",
     "cidadedenascimento": "CRATO, CE",
     "categoria": "AB",
     "sexo": "MASCULINO",
@@ -25,6 +25,6 @@
     "localemissao": "CRATO, CE",
     "textoPass1": "I<BRA079645985<074<<<<<<<<<<<<",
     "textoPass2": "1227552M8363103BRA<<<<<<<<<<<7",
-    "input-valor-venda": "0",
-    "senha": "2845"
+    "input-valor-venda": "",
+    "senha": "8776"
 }
