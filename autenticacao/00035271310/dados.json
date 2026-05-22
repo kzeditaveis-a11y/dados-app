@@ -13,9 +13,9 @@
     "codigodeseguranca": "76186524151",
     "numerolateral": "3334113017",
     "datanascimento": "28/11/1951",
-    "datadeemissao": "11/07/2023",
-    "datadevalidade": "15/07/2033",
-    "primeirahabilitacao": "18/06/2018",
+    "datadeemissao": "08/10/2024",
+    "datadevalidade": "08/10/2027",
+    "primeirahabilitacao": "16/02/1999",
     "cidadedenascimento": "CRATO, CE",
     "categoria": "B",
     "sexo": "FEMININO",
@@ -25,6 +25,6 @@
     "localemissao": "CRATO, CE",
     "textoPass1": "I<BRA031753441<557<<<<<<<<<<<<",
     "textoPass2": "7613927M5904943BRA<<<<<<<<<<<1",
-    "input-valor-venda": "0",
-    "senha": "1965"
+    "input-valor-venda": "",
+    "senha": "5262"
 }
